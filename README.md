@@ -40,4 +40,4 @@ python3 revEndian.py -f chall output.png
 # Build-In
 Python 3.13.1
 
-Created date: Jum'at, 07 Februari 2025
+Created date: Friday, 07 February 2025
