@@ -25,9 +25,9 @@ This will lead to the instructions for using the script and an example.
 python3 revendian.py [OPTION] <input_file> <output_file>
 ```
 **OPTIONS:**
-`-h`, `--help`       Show this help message and exit.
-`-x`, `--hexdump`    Save output as hexdump.
-`-f`, `--file`       Save output as file.
+- `-h`, `--help`       Show this help message and exit.
+- `-x`, `--hexdump`    Save output as hexdump.
+- `-f`, `--file`       Save output as file.
 
 # Usage Example
 ```
