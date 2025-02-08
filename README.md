@@ -3,7 +3,7 @@ A simple CLI tool to convert data between Little-endian and Big-endian, with out
 
 ## Retrictions
 1. CLI (Command Line Interface), no GUI (Graphical User Interface)
-2. Can only display results as a hexdump or ASCII string
+2. Can only display results as a hexadecimal or ASCII string
 3. Reviece and output only file type
 
 # Installation & Usage of the script
