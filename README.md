@@ -1,5 +1,5 @@
 # RevEndian
-Simple CLI Tool to reverse Little-endian to Big-endian and vise versa
+A simple CLI tool to convert data between Little-endian and Big-endian, with output in hexadecimal format or ASCII string.
 
 ## Retrictions
 1. CLI (Command Line Interface), no GUI (Graphical User Interface)
